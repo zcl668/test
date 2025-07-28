@@ -39,7 +39,7 @@
     {
       "key": "spider",
       "name": "spider",
-      "type": 3,
+      "type": 4,
       "api": "https://github.com/zcl668/test/blob/main/spider.jar",
       "searchable": 1,
       "quickSearch": 1,
